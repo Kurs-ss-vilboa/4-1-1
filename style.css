@@ -28,6 +28,7 @@ table {
     font-size: 20px;
     color: darkblue;
     border-collapse: collapse;
+    text-align: center;
 }
 
 td {
